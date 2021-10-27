@@ -1,0 +1,23 @@
+{
+  "name": "color-clg",
+  "version": "1.0.0",
+  "description": "provide a colorful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhe-henry/colorConsoleLog.git"
+  },
+  "keywords": [
+    "color",
+    "console.log"
+  ],
+  "author": "henryhe_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenhe-henry/colorConsoleLog/issues"
+  },
+  "homepage": "https://github.com/chenhe-henry/colorConsoleLog#readme"
+}
